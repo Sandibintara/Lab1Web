@@ -6,10 +6,11 @@
 ------------------------------------------------------------------------------
 <br>
 <br>
-##HTML
+## HTML
+<hr><br>
+ >rangkaian html
 <br>
-<h2>rangkaian html
-<br>
-<h2>Output html
+![rangkaian.PNG](foto/rangkaian.PNG)
+ >Output html
 <br>
 
