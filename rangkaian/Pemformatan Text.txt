@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+<head>
+
+
+<p>
+<h1>Pemformatan text</h1>
+<br>
+
+<b>Menebalkan Huruf (b)</b><br>
+
+<Strong>element digunakan untuk menunjukkan teks yang menyatakan begitu penting (Strong) </strong><br>
+
+<i>Memiringkan Huruf (i)</i><br>
+
+<em>(em) Emperized text digunakan untuk memberi penekanan tulisan yang ditandai dengan garis miring dan memiliki perbedaan dengan (i)</em><br>
+
+dan sebagainya...
+</p>
+
+</body>
+</html>
