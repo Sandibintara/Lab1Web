@@ -24,6 +24,7 @@ dalam sebuah browser
 ## Struktur HTML
 ---
 <br>
+
 ### Rangkaian HTML
 ---
 ![rangkaian.PNG](foto/rangkaian.PNG)
