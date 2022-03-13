@@ -7,11 +7,12 @@
 <br>
 ----------------------------------------------------------------------------
 <br>
-<h1>1. Pengertian HTML	[meluncur](## HTML)<br>
-<h1>2. Struktur HTML	[meluncur](## )
+1. Pengertian HTML	[meluncur](##Pengertian-HTML)<br>
+
+2. Struktur HTML	[meluncur](##Struktur-HTML)
 <br>
 
-## HTML
+## Pengertian HTML
 ---
 <br>
 
