@@ -70,10 +70,9 @@ dalam sebuah browser
 
 > Output Hyperlink Tag
 ---
+<br>
 
-<br>
 output 1
-<br>
 ![output_hyperlink_tag.PNG](foto/output_hyperlink_tag.PNG)
 <br>
 
