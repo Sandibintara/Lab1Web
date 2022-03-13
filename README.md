@@ -3,8 +3,9 @@
 <h1>السلام عليكم ورحمة الله وبركاته
 <br>
 ---------------------------------------------------------------
-<h2> Repository ini di buat untuk memenuhi pembelajaran HTML pada semester 4 
------------------------------------
+<h2> Repository ini di buat untuk memenuhi pembelajaran HTML pada semester 4
+<br>
+---------------------------------------------------------------
 <br>
 <br>
 ## HTML
