@@ -9,9 +9,8 @@
 <br>
 
 1. Pengertian HTML	[meluncur](#Pengertian-HTML)
-<br>
-
 2. Struktur HTML	[meluncur](#Struktur-HTML)
+
 <br>
 
 ## Pengertian HTML
@@ -32,7 +31,7 @@ dalam sebuah browser
 ---
 ![rangkaian.PNG](foto/rangkaian.PNG)
 <br>
-> ```gambar di atas merupakan rangkaian html yang berisi Header, Body, single tag (<hr>,<br>,dsb),tag heading, berikut dengan tag pembuka (<tag>) serta penutupnya (</tag>)```
+> ```gambar di atas merupakan rangkaian html yang berisi Document Information (<!doctype html>),Document Header(<head></head>),Document Body (<body></body>), elment. Pengetikan tag dengan (berikut dengan tag pembuka (<tag>), tag penutup (</tag>), single tag (<hr>,<br>,dsb), tag Heading (<h1><h2>sd<h10..>) ```
 <br>
 
 ### Output dari rangkaian HTML tersebut
