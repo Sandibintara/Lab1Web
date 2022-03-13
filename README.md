@@ -10,7 +10,7 @@
 <br>
 ## HTML
 <br>
->Sebuah bahasa markup yang digunakan untuk membuat
+> Sebuah bahasa markup yang digunakan untuk membuat
 sebuah halaman web dan menampilkan berbagai informasi di
 dalam sebuah browser
 <hr>
