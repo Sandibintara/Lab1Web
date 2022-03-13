@@ -50,12 +50,12 @@ dalam sebuah browser
 
 > Syntax HTML Pemformatan Tag
 ---
-![Sintak_output_pemformatan_tag.PNG](foto/Sintak_output_pemformatan_text.PNG)
+![Sintak_output_pemformatan_tag.PNG](foto/Sintak_output_pemformatan_tag.PNG)
 <br>
 
 > Output Syntax Pemformatan Tag
 ---
-![output_pemformatan_tag.PNG](foto/output_pemformatan_text.PNG)
+![output_pemformatan_tag.PNG](foto/output_pemformatan_tag.PNG)
 <br>
 
 ---
