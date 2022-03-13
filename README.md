@@ -12,9 +12,8 @@
 2. Struktur HTML	[meluncur](#Struktur-HTML)
 3. Pemformatan Text	[melincur](#Pemformatan-Text)
 
-<br>
+<br><br>
 ---
-
 ## Pengertian HTML
 ---
 <br>
@@ -23,7 +22,7 @@
 sebuah halaman web dan menampilkan berbagai informasi di
 dalam sebuah browser
 <hr>
-<br>
+<br><br>
 ---
 
 ## Struktur HTML
