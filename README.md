@@ -70,8 +70,14 @@ dalam sebuah browser
 
 > Output Hyperlink Tag
 ---
+
+<br>
+output 1
+<br>
 ![output_hyperlink_tag.PNG](foto/output_hyperlink_tag.PNG)
 <br>
+
+output 2
 ![output_hyperlink_tag2.PNG](foto/output_hyperlink_tag2.PNG)
 <br>
 
