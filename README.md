@@ -5,10 +5,14 @@
 ---------------------------------------------------------------
 <h2> Repository ini di buat untuk memenuhi pembelajaran HTML pada semester 4
 <br>
----------------------------------------------------------------
+----------------------------------------------------------------------------
 <br>
+<h1>1. Pengertian HTML	[meluncur](## HTML)<br>
+<h1>2. Struktur HTML	[meluncur](## )
 <br>
+
 ## HTML
+---
 <br>
 
 > Sebuah bahasa markup yang digunakan untuk membuat
@@ -17,6 +21,9 @@ dalam sebuah browser
 <hr>
 <br>
 
+## Struktur HTML
+---
+<br>
 ### Rangkaian HTML
 ---
 ![rangkaian.PNG](foto/rangkaian.PNG)
