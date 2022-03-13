@@ -10,6 +10,7 @@
 1. Pengertian HTML	[meluncur](#Pengertian-HTML)
 2. Struktur HTML	[meluncur](#Struktur-HTML)
 3. Pemformatan Text	[meluncur](#Pemformatan-Tag)
+4. Anchor/Hyprlink tag	[meluncur](#Hyperlink-Tag)
 <br>
 <br>
 
@@ -30,14 +31,14 @@ dalam sebuah browser
 ---
 <br>
 
-### Rangkaian HTML
+> Rangkaian HTML
 ---
 ![rangkaian.PNG](foto/rangkaian.PNG)
 <br>
-> ``gambar di atas merupakan rangkaian html yang berisi Document Information (<!doctype html>),Document Header(<head></head>),Document Body (<body></body>), elment. Pengetikan tag dengan (berikut dengan tag pembuka (<tag>), tag penutup (</tag>), single tag (<hr>,<br>,dsb), tag Heading (<h1><h2>sd<h10..>)``
+``gambar di atas merupakan rangkaian html yang berisi Document Information (<!doctype html>),Document Header(<head></head>),Document Body (<body></body>), elment. Pengetikan tag dengan (berikut dengan tag pembuka (<tag>), tag penutup (</tag>), single tag (<hr>,<br>,dsb), tag Heading (<h1><h2>sd<h10..>)``
 <br>
 
-### Output dari rangkaian HTML tersebut
+> Output dari rangkaian HTML tersebut
 ---
 ![rangkaian_output.PNG](foto/rangkaian_output.PNG)
 <br>
@@ -47,14 +48,31 @@ dalam sebuah browser
 ---
 <br>
 
-### Syntax HTML Pemformatan Tag
+> Syntax HTML Pemformatan Tag
 ---
 ![Sintak_output_pemformatan_tag.PNG](foto/Sintak_output_pemformatan_text.PNG)
 <br>
 
-### Output Syntax Pemformatan Tag
+> Output Syntax Pemformatan Tag
 ---
 ![output_pemformatan_tag.PNG](foto/output_pemformatan_text.PNG)
+<br>
+
+---
+## Hyperlink Tag
+---
+<br>
+
+> Syntax Hyperlink Tag
+---
+![Syntax_hyperlink_tag.PNG](foto/Syntax_hyperlink_tag.PNG)
+<br>
+
+> Output Hyperlink Tag
+---
+![output_hyperlink_tag.PNG](foto/output_hyperlink_tag.PNG)
+<br>
+![output_hyperlink_tag2.PNG](foto/output_hyperlink_tag2.PNG)
 <br>
 
 
