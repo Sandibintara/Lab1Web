@@ -6,13 +6,13 @@
 <h2> Repository ini di buat untuk memenuhi pembelajaran HTML pada semester 4
 <br>
 ----------------------------------------------------------------------------
-<br>
 
 1. Pengertian HTML	[meluncur](#Pengertian-HTML)
 2. Struktur HTML	[meluncur](#Struktur-HTML)
 3. Pemformatan Text	[melincur](#Pemformatan-Text)
+<br>
+<br>
 
-<br><br>
 ---
 ## Pengertian HTML
 ---
@@ -22,9 +22,10 @@
 sebuah halaman web dan menampilkan berbagai informasi di
 dalam sebuah browser
 <hr>
-<br><br>
----
+<br>
+<br>
 
+---
 ## Struktur HTML
 ---
 <br>
