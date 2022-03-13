@@ -1,20 +1,27 @@
 # Lab1Web
-<h1>Assalamualaikum
+
+<h1>السلام عليكم ورحمة الله وبركاته
 <br>
 ---------------------------------------------------------------
-<h1> Repository ini di buat untuk memenuhi pembelajaran HTML pada semester 4 
----------------------------------------------------------------
+<h2> Repository ini di buat untuk memenuhi pembelajaran HTML pada semester 4 
+-----------------------------------
 <br>
 <br>
 ## HTML
 <hr><br>
 
->rangkaian html
+>Rangkaian HTML
 ---
 ![rangkaian.PNG](foto/rangkaian.PNG)
 <br>
-
->Output html
----
 <br>
+
+>Output dari rangkaian HTML tersebut
+---
+![rangkaian_output.PNG](foto/rangkaian_output.PNG)
+<br>
+<br>
+
+
+
 
