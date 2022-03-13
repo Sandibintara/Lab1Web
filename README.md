@@ -9,7 +9,7 @@
 
 1. Pengertian HTML	[meluncur](#Pengertian-HTML)
 2. Struktur HTML	[meluncur](#Struktur-HTML)
-3. Pemformatan Text	[melincur](#Pemformatan-Text)
+3. Pemformatan Text	[meluncur](#Pemformatan-Tag)
 <br>
 <br>
 
@@ -43,18 +43,18 @@ dalam sebuah browser
 <br>
 ---
 
-## Pemformatan Text
+## Pemformatan Tag
 ---
 <br>
 
-### Syntax HTML Pemformatan Text
+### Syntax HTML Pemformatan Tag
 ---
-![Sintak_output_pemformatan_text.PNG](foto/Sintak_output_pemformatan_text.PNG)
+![Sintak_output_pemformatan_tag.PNG](foto/Sintak_output_pemformatan_text.PNG)
 <br>
 
-### Output Syntax Pemformatan Text
+### Output Syntax Pemformatan Tag
 ---
-![output_pemformatan_text.PNG](foto/output_pemformatan_text.PNG)
+![output_pemformatan_tag.PNG](foto/output_pemformatan_text.PNG)
 <br>
 
 
