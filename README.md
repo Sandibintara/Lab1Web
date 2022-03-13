@@ -13,6 +13,7 @@
 3. Pemformatan Text	[melincur](#Pemformatan-Text)
 
 <br>
+---
 
 ## Pengertian HTML
 ---
@@ -23,6 +24,7 @@ sebuah halaman web dan menampilkan berbagai informasi di
 dalam sebuah browser
 <hr>
 <br>
+---
 
 ## Struktur HTML
 ---
@@ -39,6 +41,7 @@ dalam sebuah browser
 ---
 ![rangkaian_output.PNG](foto/rangkaian_output.PNG)
 <br>
+---
 
 ## Pemformatan Text
 ---
