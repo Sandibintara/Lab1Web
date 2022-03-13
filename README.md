@@ -10,6 +10,7 @@
 <br>
 ## HTML
 <br>
+
 > Sebuah bahasa markup yang digunakan untuk membuat
 sebuah halaman web dan menampilkan berbagai informasi di
 dalam sebuah browser
@@ -20,7 +21,7 @@ dalam sebuah browser
 ---
 ![rangkaian.PNG](foto/rangkaian.PNG)
 <br>
-> gambar di atas merupakan rangkaian html yang berisi Header, Body, single tag (<hr>,<br>,dsb),tag heading, berikut dengan tag pembuka (<tag>) serta penutupnya (</tag>)
+> "gambar di atas merupakan rangkaian html yang berisi Header, Body, single tag (<hr>,<br>,dsb),tag heading, berikut dengan tag pembuka (<tag>) serta penutupnya (</tag>)"
 <br>
 
 ### Output dari rangkaian HTML tersebut
